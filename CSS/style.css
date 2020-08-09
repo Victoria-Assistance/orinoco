@@ -1,0 +1,25 @@
+h1
+{
+    text-align: center;
+    padding:60px;
+}
+
+.jumbotron
+{
+    text-align:center;
+    background-color: #caffbf;
+    padding:20px;
+}
+
+article
+{padding:40px;}
+
+h3
+{
+    padding-top: 20px;
+}
+
+.navbar
+{
+    background-color: #f3e9f1;
+}
